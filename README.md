@@ -360,7 +360,7 @@ ActionDispatch::Session::SequelStore.session_class = MyCustomSessionModelClass
 Available sequel specific rake tasks
 ====================================
 
-To get a list of all available rake tasks in your rails3 app, issue the usual in you app's root directory:
+To get a list of all available rake tasks in your rails app, issue the usual in you app's root directory:
 
 ```bash
 rake -T
